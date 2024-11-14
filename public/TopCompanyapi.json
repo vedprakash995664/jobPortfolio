@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "Google",
+        "text": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+        "imgSrc": "public/google.jpg",
+        "location": "Allahabad",
+        "position": "Open Position (3)"
+    },
+    {
+        "id": 2,
+        "title": "Microsoft",
+        "text": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+        "imgSrc": "public/micro.jpg",
+        "location": "Allahabad",
+        "position": "Open Position (5)"
+    },
+    {
+        "id": 3,
+        "title": "TCS",
+        "text": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+        "imgSrc": "public/tcs.png",
+        "location": "Allahabad",
+        "position": "Open Position (9)"
+    },
+    {
+        "id": 4,
+        "title": "Wipro",
+        "text": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+        "imgSrc": "public/wipro.jpg",
+        "location": "Allahabad",
+        "position": "Open Position (9)"
+    },
+    {
+        "id": 5,
+        "title": "Tech-Mahindra",
+        "text": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+        "imgSrc": "public/tech.jpg",
+        "location": "Allahabad",
+        "position": "Open Position (9)"
+    },
+    {
+        "id": 6,
+        "title": "Amazon",
+        "text": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+        "imgSrc": "public/amazon.jpg",
+        "location": "Allahabad",
+        "position": "Open Position (9)"
+    }
+]

@@ -1,0 +1,123 @@
+  .text{
+    padding-top: 40px;
+  }
+  .findJob{
+    height: 60px;
+    width: 540px;
+    border: 1px solid #FCFCFC;
+    box-shadow: 1px 10px 1px 1px #F1F2F4;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    background-color: #FCFCFC;
+  }
+  @media  (min-width:375px) {
+   .findJob{
+    /* width: 350px; */
+    /* background-color: red; */
+   } 
+   .jobname input{
+      /* width: 130px; */
+   }
+   .location{
+    /* visibility: hidden; */
+   }
+   .locationName input{
+    /* width: 10px; */
+   }
+   .findbtn{
+    /* position: relative;
+    top: 60px;
+    right: 220px; */
+
+   }
+  }
+
+
+.searchLogo{
+    height: 50px;
+    width: 30px;
+    margin-left: 20px;
+    display: flex;
+    align-items: center;
+}
+.searchLogo i{
+    font-size: 20px;
+}
+.jobname input{
+    height: 50px;
+    background-color: transparent;
+    border: none;
+    outline: none;
+}
+.location{
+    padding-left: 10px;
+}
+.locationName input{
+    height: 50px;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    padding-left: 10px;
+    width: 150px;
+}
+.findbtn button{
+    font-size: 18px;
+    border-radius: 6px;
+    width: 100px;
+    height: 40px;
+    background-color:  #0A65CC;
+    color: white;
+    border: none;
+    font-weight: 500;
+}
+.box{
+  /* height: 200px; */
+  /* background-color: red; */
+  /* display: flex;
+  gap: 30px;  
+  align-items: center;
+  justify-content: center; */
+}
+.box1{
+  height: 90px;
+  width: 200px;
+  background-color:#F8F8F8;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  border-radius: 7px;
+  
+  &:hover{
+    transition: .2s;
+    box-shadow: 4px 4px 10px 1px #c4c2c2;
+    .box1logo{
+      background-color:#0A65CC;
+      color: white;
+    }
+  }
+}
+.box1logo{
+  margin-left: 18px;
+  height: 50px;
+  width: 60px;
+  font-size: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color:#E4EDF7;
+  color: #347ED3;
+  border-radius: 7px;
+}
+.box1txt{
+  height: 60px;
+  width: 160px;
+}
+.txthead{
+  font-size: 20px;
+  font-weight: 500;
+}
+.txtbody{
+  color: gray;
+}

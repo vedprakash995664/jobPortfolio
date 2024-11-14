@@ -1,0 +1,26 @@
+{
+    "livejobs": {
+        "id": 1,
+        "imgSrc": "bi bi-briefcase",
+        "heading": "1,75,324",
+        "title": "Live Job"
+    },
+    "companies": {
+        "id": 2,
+        "imgSrc": "bi bi-buildings",
+        "heading": "97,354",
+        "title": "Companies"
+    },
+    "Candidates": {
+        "id": 3,
+        "imgSrc": "bi bi-people-fill",
+        "heading": "38,47,154",
+        "title": "Candidates"
+    },
+    "NewJobs": {
+        "id": 4,
+        "imgSrc": "bi bi-briefcase",
+        "heading": "7,532",
+        "title": "New Jobs"
+    }
+}

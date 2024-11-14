@@ -1,0 +1,48 @@
+  .work{
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+  }
+  .workbox{
+    height: 220px;
+    width: 190px;
+    /* background-color: white; */
+    border-radius: 10px;
+
+    &:hover{
+        background-color: white;
+        .lo{
+            background-color: #0A65CC;
+            color: white;
+
+        }
+    }
+  }
+  .workboxlogo{
+    height: 100px;
+    width: 190px;
+    /* background-color: yellowgreen; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .workboxtxt{
+    height: 125px;
+    width: 190px;
+    text-align: center;
+
+  }
+  .lo{
+    height: 65px;
+    width: 65px;
+    border-radius: 50%;
+    border: 1px solid #0A65CC;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 40px;
+    color: #0A65CC;
+  }

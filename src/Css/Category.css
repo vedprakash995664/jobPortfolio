@@ -1,0 +1,26 @@
+.action-box {
+    background: #fff; /* Add background color */
+    border-radius: 5px; /* Add border radius */
+    padding: 20px; /* Add padding */
+    text-align: center; /* Center the text */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add shadow */
+    transition: transform 0.3s; /* Add transition for hover effect */
+}
+
+.action-box:hover {  
+    transform: scale(1.05); /* Scale effect on hover */
+}
+
+.action-logo {
+    font-size: 30px; /* Increase font size for the logo */
+    margin-bottom: 10px; /* Add space below the logo */
+}
+
+.action-head {
+    font-weight: bold; /* Make the heading bold */
+    font-size: 18px; /* Adjust font size */
+}
+
+.action-body {
+    color: #777; /* Change color for the body text */
+}

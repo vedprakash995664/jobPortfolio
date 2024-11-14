@@ -1,0 +1,21 @@
+  ul li{
+    list-style-type: none;
+    color: gray;
+    cursor: pointer;
+    &:hover{
+        color: #0A65CC;
+        .bi{
+            visibility: visible;
+        }
+    }
+  }
+  ul li i{
+    visibility: hidden;
+  }
+  h6{
+    cursor: pointer;
+  }  
+
+
+
+  

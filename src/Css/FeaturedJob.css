@@ -1,0 +1,105 @@
+.jobtime {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #0BA02C;
+}
+
+.jobcard {
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
+}
+
+/* Category.css */
+
+.card {
+    background-color: red; 
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; 
+    width: 350px;
+    transition: transform 0.2s; /* Add transition for hover effect */
+}
+
+.card:hover {
+    transform: translateY(-5px); /* Elevate card on hover */
+}
+
+.jobtime {
+    height: 30px;
+    width: 90px;
+    background-color: #E7F6EA;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+}
+
+.icon-container {
+    height: 50px;
+    width: 50px;
+    background-color: #EDEFF5;
+    display: flex;
+    font-size: 30px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 7px;
+    color: black;
+}
+
+.job-company {
+    margin-left: 10px;
+}
+
+.job-location {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.headsecfeature {
+    height: 80px;
+}
+
+.btnfeature {
+    float: inline-end;  
+}
+
+.btnfeature button {
+    height: 50px;
+    width: 130px;
+    border: 2px solid #E7F0FA;
+    font-size: 20px;
+    font-weight: 600;
+    background-color: white;
+    color: #0A65CC;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .card {
+        width: 100%; /* Full width on smaller screens */
+    }
+    
+    .btnfeature {
+        text-align: center; /* Center button on smaller screens */
+    }
+    
+    .headsecfeature {
+        flex-direction: column; /* Stack elements vertically */
+        align-items: center;
+    }
+}
+.applybtn{
+    color: white !important;
+    background-color: #0A65CC !important;
+    font-size: 20px !important;
+    font-family: sans-serif !important;
+    &:hover{
+        background-color: white !important;
+        color: #0A65CC !important;
+    }
+}

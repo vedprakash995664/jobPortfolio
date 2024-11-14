@@ -1,0 +1,99 @@
+[
+    {
+        "title": "Software Engineer",
+        "type": "Part-Time",
+        "salary": "6748743",
+        "company": "Google",
+        "location": "Bangalore",
+        "icon": "public/google.jpg"
+    },
+    {
+        "title": "Web Developer",
+        "type": "Full-Time",
+        "salary": "8000000",
+        "company": "Facebook",
+        "location": "Bangalore",
+        "icon": "bi bi-facebook"
+    },
+    {
+        "title": "Data Scientist",
+        "type": "Contract",
+        "salary": "7500000",
+        "company": "Amazon",
+        "location": "Bangalore",
+        "icon": "public/amazon.jpg"
+    },
+    {
+        "title": "Software Engineer",
+        "type": "Part-Time",
+        "salary": "6748743",
+        "company": "Google",
+        "location": "Bangalore",
+        "icon": "public/google.jpg"
+    },
+    {
+        "title": "Web Developer",
+        "type": "Full-Time",
+        "salary": "8000000",
+        "company": "Facebook",
+        "location": "Bangalore",
+        "icon": "bi bi-facebook"
+    },
+    {
+        "title": "Data Scientist",
+        "type": "Contract",
+        "salary": "7500000",
+        "company": "Amazon",
+        "location": "Bangalore",
+          "icon": "public/amazon.jpg"
+    },
+    {
+        "title": "Data Scientist",
+        "type": "Contract",
+        "salary": "7500000",
+        "company": "Amazon",
+        "location": "Bangalore",
+          "icon": "public/amazon.jpg"
+    },
+    {
+        "title": "Data Scientist",
+        "type": "Contract",
+        "salary": "7500000",
+        "company": "Amazon",
+        "location": "Bangalore",
+          "icon": "public/amazon.jpg"
+    },
+    {
+        "title": "Data Scientist",
+        "type": "Contract",
+        "salary": "7500000",
+        "company": "Amazon",
+        "location": "Bangalore",
+          "icon": "public/amazon.jpg"
+    },
+    {
+        "title": "Data Scientist",
+        "type": "Contract",
+        "salary": "7500000",
+        "company": "Amazon",
+        "location": "Bangalore",
+          "icon": "public/amazon.jpg"
+    },
+    {
+        "title": "Data Scientist",
+        "type": "Contract",
+        "salary": "7500000",
+        "company": "Amazon",
+        "location": "Bangalore",
+          "icon": "public/amazon.jpg"
+    }
+    ,
+    {
+        "title": "Data Scientist",
+        "type": "Contract",
+        "salary": "7500000",
+        "company": "Amazon",
+        "location": "Bangalore",
+          "icon": "public/amazon.jpg"
+    }
+]
