@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import '../Css/SignUp.css';
+import '../Css/Signup.css'
 import { Button, Col, Container, Row } from 'react-bootstrap';
 import Foot from './Foot';
 import Header from './Header';
